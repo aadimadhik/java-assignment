@@ -32,6 +32,7 @@ public class DefaultMethods implements Sayable{
 ```
 
 **Output:**
-
+```
 Hello, this is default method
 Work is worship
+```
