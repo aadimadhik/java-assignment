@@ -1,4 +1,4 @@
-![java_logo](logo.png)
+![java_logo](https://www.logolynx.com/images/logolynx/3a/3a732a857b97fcdb9ed3fe1197b09a76.png)
 
 # Java Default Methods
 
