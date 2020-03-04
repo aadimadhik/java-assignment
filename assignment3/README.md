@@ -81,6 +81,8 @@ However, we use multithreading than multiprocessing because threads use a shared
 
 Java Multithreading is mostly used in games, animation, etc.
 
+![Threads](https://static.javatpoint.com/images/java-multithreading.png)
+
 ## Advantages of Java Multithreading
 
 1) It doesn't block the user because threads are independent and you can perform multiple operations at the same time.
