@@ -1,4 +1,4 @@
-##FocusListenerDemo
+## FocusListenerDemo
 
 This is an example that discusses how to use *FocusListener in Java*. This is a very handy feature when you have several components and you want to monitor and handle the event when on of them gains or looses focus.
 

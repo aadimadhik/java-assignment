@@ -1,4 +1,4 @@
-##Java MouseListener Interface
+## Java MouseListener Interface
 
 The Java MouseListener is notified whenever you change the state of mouse. It is notified against MouseEvent. The MouseListener interface is found in java.awt.event package. It has five methods.
 
